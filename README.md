@@ -32,10 +32,10 @@ The purpose of this project is to obtain statistical parameters based on the Cit
 
 Link for the Story presentation: ["https://public.tableau.com/app/profile/joel4774/viz/NYC_Citibike_Challenge_JFC/NYC_Citibike_Analysis"]
 
-•	Based on the results from New York we can confirm that the bike service is a profitable business. The number of users and rentals displayed on the previous chart supports this statement.
-•	At an older age, the use of bicycles increases. This is because adults tend to seek low-impact activities in order to maintain a more active life. This justification could be used as part of the business entry campaign in Des Moines.
-•	Subscribers tend to use the bikes the last days of the week (going into the weekend). This can be caused by working hours, usually the last days of the week are more comfortable for outdoor activities. This means that bikes must be 100% ready and available in order to take advantage of customer demand. 
-•	During the week you can also see the trend of increasing use after office hours. This conclusion applies for both gender groups.
+- Based on the results from New York we can confirm that the bike service is a profitable business. The number of users and rentals displayed on the previous chart supports this statement.
+- At an older age, the use of bicycles increases. This is because adults tend to seek low-impact activities in order to maintain a more active life. This justification could be used as part of the business entry campaign in Des Moines.
+- Subscribers tend to use the bikes the last days of the week (going into the weekend). This can be caused by working hours, usually the last days of the week are more comfortable for outdoor activities. This means that bikes must be 100% ready and available in order to take advantage of customer demand. 
+- During the week you can also see the trend of increasing use after office hours. This conclusion applies for both gender groups.
 
 ## Additional visualization:
 
