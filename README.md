@@ -34,17 +34,18 @@ The summary of the statistical results will be displayed in different charts des
 
 Link for the Story presentation: ["https://public.tableau.com/app/profile/joel4774/viz/NYC_Citibike_Challenge_JFC/NYC_Citibike_Analysis"]
 
-- Based on the results from New York we can confirm the bike service is a profitable business. This is based in the number of user and rentals calculate on the widget.
-- A mayor edad el use de las bicicletas aumenta, esto se debe a que las personas adultas tienden a buscar actividades de bajo impacto para poder mantener una vida mas activa. Este justification podria usarse como parte de la campana de entrada del negocio en Des Moines. 
-- Los subscritores masculinos tiended a usar las biciletas los ultimos dias de la semana (entrando al fin de semana). Esto puede ser ocacionado por el horario de trabajo, usualmente los ultimos dias de la semana resultan mas comodos para actividades al exterior. Esto significa que las bicicletas deben estar listas y disponibles en un 100% para poder aprovechar la demanda de clientes.
--Durante la semana tambien se puede apreciar la tendencia de incremento de uso despues de horarios de oficina. 
--Un dato interesante es el uso de las bicicletas por las mananas (esto se puede ver en ambos generos) 
+- Based on the results from New York we can confirm the bike service is a profitable business. The number of users and rentals displayed on the previous chart support this statement.
+- At an older age, the use of bicycles increases, this is because adults tend to seek low-impact activities in order to maintain a more active life. This justification could be used as part of the business entry campaign in Des Moines.
+- Subscribers tend to use the bikes the last days of the week (going into the weekend). This can be caused by working hours, usually the last days of the week are more comfortable for outdoor activities. This means that bikes must be 100% ready and available in order to take advantage of customer demand.
+-During the week you can also see the trend of increasing use after office hours. This conclusion applied for both gender groups. 
 
 ## Additional visualization:
 
-8. Bike utilization
-9. Top 5 Start Station
-10. Top 5 End Station
+The last view of the story published in Tableu shows additional charts as complement of the analysis.
+  
+8. Bike utilization : Based on this widget, there are some bikes that are more booked that others. This could have different factors like location, condition or brand. Once the business received the approval by investors, we should include a deep analysis of why some specific equipment are more popular for the consumers. 
+
+9. Top 5 Start Station/Top 5 End Station : The location to pick up and drop off the bikes are important. Coincidentally, the most popular places for both actions are the same places. This is important to take strategic decisions, not only to place the bikes it can be use to arrange agreements with local business around the areas. Maybe as additional research, we should visit the locations in New York to observe what business or attractions are around the most popular start and end stations.  
 
 <p align="center"><img src="https://user-images.githubusercontent.com/88695570/143278148-1ccb1e41-3501-478d-a317-d9899b4e03ba.png">
 
