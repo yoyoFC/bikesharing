@@ -18,7 +18,7 @@ The purpose of this project is to obtain statistical parameters based on the Cit
 
 <p align="center"><img src="https://user-images.githubusercontent.com/88695570/143278058-6a81d6fa-ce7d-487a-9c76-3964dc1e291d.png">
 
-5. Trips by Weekday for each hour: The heatmap located at the right side of the next view provides details of what times the business registered more service requests. Clearly there is a preference for the morning hours, after business hours and weekends. This estimation makes sense considering the daily activities of the population (regular business hours and day-offs in weekends).
+5. Trips by Weekday for each hour: The heatmap located at the left side of the next view provides details of what times the business registered more service requests. Clearly there is a preference for the morning hours, after business hours and weekends. This estimation makes sense considering the daily activities of the population (regular business hours and day-offs in weekends).
   
 6. User trips by Gender by Weekday: On the next heat map we are going to analyze the trips during the weekdays based on the gender. Let's start with the subscriber group; the female gender tends to rent bikes on Thursdays and Fridays. Coincidentally, those are the days with higher demand by the male gender. On the “customer group”, the most popular days are Saturdays and Sundays. This may be caused by the tourist flow during those days.  
 
