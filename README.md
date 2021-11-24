@@ -2,7 +2,7 @@
 
 ## Overview of the statistical analysis
 
-The purpose of this project is to obtain statistical parameters based on the Citi Bike program established in New York. The result will be the statistical reference to build a similar business located at Des Moines. The data source was extracted from this website: https://s3.amazonaws.com/tripdata/index.html. The historic records are available to the public. The summary of the statistical results will be displayed in different charts designed in Tableu. This document will include screenshots and comments for each item. 
+The purpose of this project is to obtain statistical parameters based on the Citi Bike program established in New York. The result will be the statistical reference to build a similar business located at Des Moines. The data source was extracted from this website: https://s3.amazonaws.com/tripdata/index.html. The historic records are available to the public. The summary of the statistical results will be displayed in different charts designed in Tableu with the title [NYC_Citybike Analysis](https://public.tableau.com/app/profile/joel4774/viz/NYC_Citibike_Challenge_JFC/NYC_Citibike_Analysis). This document will include screenshots and comments for each item. 
 
 ## Results
 
@@ -30,7 +30,7 @@ The purpose of this project is to obtain statistical parameters based on the Cit
 
 ## Summary
 
-Link for the Story presentation: ["https://public.tableau.com/app/profile/joel4774/viz/NYC_Citibike_Challenge_JFC/NYC_Citibike_Analysis"]
+These are the summary for the [NYCity bike analysis](https://public.tableau.com/app/profile/joel4774/viz/NYC_Citibike_Challenge_JFC/NYC_Citibike_Analysis)
 
 - Based on the results from New York we can confirm that the bike service is a profitable business. The number of users and rentals displayed on the previous chart supports this statement.
 - At an older age, the use of bicycles increases. This is because adults tend to seek low-impact activities in order to maintain a more active life. This justification could be used as part of the business entry campaign in Des Moines.
