@@ -1,7 +1,7 @@
 # Bike-Sharing program for Des Moines
 
 ## Overview of the statistical analysis
-The purpose of this project is to obtain statistical parameters based on the Citi Bike program established in New York. The result will be a statistical reference to build a similar business located at Des Moines. 
+The purpose of this project is to obtain statistical parameters based on the Citi Bike program established in New York. The result will be the statistical reference to build a similar business located at Des Moines. 
 The data source was extracted from this website: https://s3.amazonaws.com/tripdata/index.html. The historic records are available for the public. 
 The summary of the statistical result will be displayed in different charts desgined in Tableu. This document will include screenshots and comment for each item. 
 
