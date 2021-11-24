@@ -16,22 +16,19 @@ The summary of the statistical results will be displayed in different charts des
 
 <p align="center"><img src="https://user-images.githubusercontent.com/88695570/143278034-ea54b109-1b05-47b5-b602-7fc8cdb92a98.png">
 
-4. Checkout Time by Gender
+4. Checkout Time by Gender: This results confirmed the point 1, the male gender is the regular consumer of bike services. Based on data retrieved from the bikes, the checkout time dont excede the 50 minutes. We may need to analyze more details about this result but we can conclude that the trips are for short period of times. 
 
 <p align="center"><img src="https://user-images.githubusercontent.com/88695570/143278058-6a81d6fa-ce7d-487a-9c76-3964dc1e291d.png">
 
-
-5. Trips by Weekday for each hour
-6. User trips by Gender by Weekday
+5. Trips by Weekday for each hour: The heatmap located at the right side of the next view, provides details about what times the business registered more services request. Clearly there is preference for morning, after business hours and weekends. This estimation makes sense considering the daily activities of the population. (regular business hours and day off in weekends)
+  
+6. User trips by Gender by Weekday: On the next heat map we are going to analyze the trips during the weekdays based on the gender. Let's start with the subscriber group, the female gender tends to rent bikes Thrusdays and Fridays. Coincidentaly those are the days with higher demand on the male gender. Something to keep in mind is the days on the customer group, the most popular days are saturday and sunday. This may be caused by the tourist flow during those days.  
 
 <p align="center"><img src="https://user-images.githubusercontent.com/88695570/143278092-78bcb7c4-fa13-48a8-ac64-2d82dc648f4b.png">
 
-
-7. Truos by Gender
-
+7. Trips by Gender: This graphic could be a complement of the result 6. The pattern for the most popular time to request the service is equivalent for the female and male group. 
 
 <p align="center"><img src="https://user-images.githubusercontent.com/88695570/143278120-edb40c73-9fdd-4218-858f-563dd64fe184.png">
-
 
 ## Summary
 
